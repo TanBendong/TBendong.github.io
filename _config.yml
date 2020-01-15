@@ -83,9 +83,9 @@ author:
   location         : "Wuhan, Hubei, China"
   employer         :
   pubmed           :  
-  googlescholar    :  
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : https://scholar.google.com/citations?user=FdEP8xgAAAAJ&hl=en
+  email            : 2013302540270@whu.edu.cn
+  researchgate     : https://www.researchgate.net/profile/Bendong_Tan # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/bendong-tan-453046182/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
