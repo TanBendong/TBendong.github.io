@@ -37,7 +37,7 @@ redirect_from:
 
 - #### Supervisor: Prof.Junbo Zhao
 
-#### Skills
+# Skills
 ### Power System Softwares – Master the basic usage of PST, Digsilent, PSS/E, PSASP, PSD-BPA, and develop batch simulation scripts of transient stability for these softwares
 
 ### Technologies
