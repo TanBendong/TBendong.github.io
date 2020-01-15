@@ -1,11 +1,9 @@
 ---
-permalink: /
+layout: archive
 title: "Home"
-excerpt: "home"
+permalink: /home/
 author_profile: true
-redirect_from: 
-  - "/wordpress/"
-  - "/wordpress/index.html"
+
 ---
 
 {% include base_path %}
