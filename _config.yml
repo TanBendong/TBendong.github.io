@@ -173,6 +173,10 @@ kramdown:
 
 # Collections
 collections:
+ home:
+    output: true
+    permalink: /:collection/:path/
+  research:
   publications:
     output: true
     permalink: /:collection/:path/
@@ -238,6 +242,14 @@ defaults:
   - scope:
       path: ""
       type: contact
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _home
+  - scope:
+      path: ""
+      type: home
     values:
       layout: single
       author_profile: true
