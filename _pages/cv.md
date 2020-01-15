@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [Also available in PDF format.](https://github.com/TBendong/TBendong.github.io/blob/master/CV_Bendong%20Tan.pdf )
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
