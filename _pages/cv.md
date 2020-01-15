@@ -22,7 +22,7 @@ Education
 
 	* Ranking: 9/189 (top 5%)
 
-	* Area of Study: Applications of Artificial Intelligence in Power System Stability and Control**
+	* Area of Study: Applications of Artificial Intelligence in Power System Stability and Control
 
 	* Supervisor: Prof.Yuanzhang Sun & Prof.Jun Yang
 
