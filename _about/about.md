@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: "About"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - "/wordpress/"
-  - "/wordpress/index.html"
+title: "Portfolio item number 2"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+collection: about
+
 ---
 
 {% include base_path %}
