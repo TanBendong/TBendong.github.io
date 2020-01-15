@@ -245,7 +245,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _contact
+  # _about
   - scope:
       path: ""
       type: about
