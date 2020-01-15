@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Bendong Tan"
-  avatar           : "photo.jpg"
+  avatar           :  https://github.com/TBendong/TBendong.github.io/blob/master/photo.jpg
   bio              : "PhD of Electrical Engineering"
   location         : "Wuhan, Hubei, China"
   employer         :
