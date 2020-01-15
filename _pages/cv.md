@@ -11,9 +11,11 @@ redirect_from:
 
 [Also available in PDF format.](https://github.com/TBendong/TBendong.github.io/blob/master/CV_Bendong%20Tan.pdf )
 
+------
+
 # Education
 
-### B.S. in Electrical Engineering, Wuhan University, 2013 - 2017
+### 1. B.S. in Electrical Engineering, Wuhan University, 2013 - 2017
 
 * #### Weighted of Average Score: 89.32/100
 
@@ -23,7 +25,7 @@ redirect_from:
 
 * #### Supervisor: Prof.Yuanzhang Sun & Prof.Jun Yang
 
-### M.S. in Electrical Engineering, Wuhan University, 2017 - 2020
+### 2. M.S. in Electrical Engineering, Wuhan University, 2017 - 2020
 
 - ####  Grade Point Average (GPA): 3.60/4.00
 
@@ -33,20 +35,24 @@ redirect_from:
 
 - #### Supervisor: Prof.Jun Yang
 
-### Ph.D in  Electrical Engineering, Mississippi State University, 2020 - Now
+### 3. Ph.D in  Electrical Engineering, Mississippi State University, 2020 - Now
 
 - #### Supervisor: Prof.Junbo Zhao
 
-# Skills
-### Power System Softwares – Master the basic usage of PST, Digsilent, PSS/E, PSASP, PSD-BPA, and develop batch simulation scripts of transient stability for these softwares
+------
 
-### Technologies
+# Skills
+### 1. Power System Softwares – Master the basic usage of PST, Digsilent, PSS/E, PSASP, PSD-BPA, and develop batch simulation scripts of transient stability for these softwares
+
+### 2. Technologies
 
 - #### Machine Learning: Tensorflow,Keras,Scikit-learn,Pandas.
 
 - #### Optimization: Yalmip with Gurobi and Cplex.
 
-### Programming Languages – Python, C and Matlab
+### 3. Programming Languages – Python, C and Matlab
+
+------
 
 Projects
 ======
