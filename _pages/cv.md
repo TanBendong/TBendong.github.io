@@ -15,8 +15,16 @@ redirect_from:
 
 Education
 ======
-
 * B.S. in Electrical Engineering, Wuhan University, 2013 - 2017
+
+	* Grade Point Average (GPA): 3.60/4.00
+	
+	* Ranking: 22/379 (top 6%)
+	
+	* Thesis: Transient Stability Assessment of Power System Based on Data Mining Technology
+	* Supervisor: Prof.Jun Yang
+
+* M.S. in Electrical Engineering, Wuhan University, 2017 - 2020
 
 	* Weighted of Average Score: 89.32/100
 
@@ -25,15 +33,6 @@ Education
 	* Area of Study: Applications of Artificial Intelligence in Power System Stability and Control
 
 	* Supervisor: Prof.Yuanzhang Sun & Prof.Jun Yang
-
-* M.S. in Electrical Engineering, Wuhan University, 2017 - 2020
-
-	* Grade Point Average (GPA): 3.60/4.00
-	
-	* Ranking: 22/379 (top 6%)
-	
-	* Thesis: Transient Stability Assessment of Power System Based on Data Mining Technology
-	* Supervisor: Prof.Jun Yang
 
 * Ph.D in  Electrical Engineering, Mississippi State University, 2020 - Now
 
