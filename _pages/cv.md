@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Also available in PDF format.](http://TBendong.github.io/files/paper4.pdf)
+[More detailed information also available in PDF format.](http://TBendong.github.io/files/paper4.pdf)
 
 ------
 
