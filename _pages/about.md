@@ -10,4 +10,18 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I’m Stuart, a staff ethnographer and principal investigator at the [Berkeley Institute for Data Science](http://bids.berkeley.edu) at UC-Berkeley. I’m an interpretive social scientist by training with a background in the humanities, but I have just enough expertise in computer science and data science to make trouble. I empirically study how we know what we know, using qualitative, quantitative, and computational methods to holistically investigate the socio-technical systems that support the production of knowledge. I have a particular focus on decentralized communities and institutions, such as open source software, scientific research, peer production platforms (like Wikipedia), and social media sites. 
+Hi! I’m Bendong Tan. I earned my bachelor degree of Electrical Engineering from Wuhan University (WHU) in 2017, which is one of the most beautiful university in Wuhan, China. I will get my master degree of Electrical Engineering from WHU in 2020, focusing on power system transient stability. And I will pursue my PhD degree in Mississippi State University in 2020, where I would perform research on power system stability and control. 
+
+I have suffered from "what do I want?" for long time. To be realistic, An MS can get me a good job in State Grid of China but more likely an uncompetitive one, since there are not much new technologies to learn to update myself and it may be boring in such corporation. Therefore, I choose to pursue a PhD degree in America not only to find more interesting things in power system, but also to improve self-cognition and to be familiar with the world. During my PhD career, I enjoy building things so I create this academic website to share something what I've found and done. I’m Looking forward to having a pleasant cooperation with my research partners in the future! 
+
+
+----------
+Journal Reviewer
+======
+* IEEE Transaction on Power System
+* IEEE ACCESS
+
+----------
+News
+======
+* 16/01/2020 My academic website has been built!
