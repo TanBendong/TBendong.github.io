@@ -26,4 +26,5 @@ Journal Reviewer
 
 News
 ======
+* 18/05/2020 The master defense has been done online! My master in Wuhan University is finished!
 * 16/01/2020 My academic website has been built!
