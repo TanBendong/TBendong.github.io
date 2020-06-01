@@ -10,8 +10,6 @@ redirect_from:
 
 [More detailed information is also available in PDF format.](http://TBendong.github.io/files/paper4.pdf)
 
-------
-
 ### Education
 * B.S. in Electrical Engineering, Wuhan University, 2013 - 2017  
 (1)  Grade Point Average (GPA): 3.60/4.00    
