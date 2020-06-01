@@ -11,7 +11,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### Contact
 Contact information is below, including email and various web services.  This is to make it easy for people to find me when they search for things and get wrong pages on my site.  Here are some other places on the Internet where I reside.
 * E-mail: 2013302540270@whu.edu.cn
 * Chinese Quora: [This is the website where I answer interesting questions](https://www.zhihu.com/people/tan-ben-dong/activities)
