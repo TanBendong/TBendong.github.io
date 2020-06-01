@@ -21,14 +21,14 @@ redirect_from:
 (3) Area of Study: Applications of Artificial Intelligence in Power System Stability and Control  
 (4) Supervisor: Prof.Yuanzhang Sun & Prof.Jun Yang
 * Ph.D in  Electrical Engineering, Mississippi State University, 2020 - Now  
-(1) Supervisor: Prof.Junbo Zhao  
+(1) Supervisor: Prof.Junbo Zhao
 
 ### Skills
 * Power System Softwares – Master the basic usage of PST, Digsilent, PSS/E, PSASP, PSD-BPA, and develop batch simulation scripts of transient stability for these softwares
 * Technologies  
 (1) Machine Learning: Tensorflow,Keras,Scikit-learn,Pandas.  
 (2) Optimization: Yalmip with Gurobi and Cplex.
-* Programming Languages – Python, C and Matlab  
+* Programming Languages – Python, C and Matlab
 
 ### Projects
 ### 1. Intelligent fault analysis system for the Hubei Power Grid (Contributor, Jul 2016 – Jul 2017)
