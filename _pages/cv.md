@@ -28,8 +28,7 @@ redirect_from:
 
 ------
 
-Skills
-======
+### Skills
 * Power System Softwares – Master the basic usage of PST, Digsilent, PSS/E, PSASP, PSD-BPA, and develop batch simulation scripts of transient stability for these softwares
 * Technologies  
 (1) Machine Learning: Tensorflow,Keras,Scikit-learn,Pandas.  
@@ -38,8 +37,7 @@ Skills
 
 ------
 
-Projects
-======
+### Projects
 ### 1. Intelligent fault analysis system for the Hubei Power Grid (Contributor, Jul 2016 – Jul 2017)
 * Introduction: this project was funded by the State Grid Hubei Electric Corporation, whose aim was to develop a desicion system to provide service of fault diagnosis and security analysis for the Hubei Power Grid.  
 (1) A fault location algorithm was designed based on complex information in power system  
