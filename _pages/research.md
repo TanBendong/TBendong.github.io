@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+// title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -11,3 +11,4 @@ author_profile: true
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+### Research
