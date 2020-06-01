@@ -17,12 +17,12 @@ Education
 ======
 * B.S. in Electrical Engineering, Wuhan University, 2013 - 2017
 
-	(1) Grade Point Average (GPA): 3.60/4.00
+	* Grade Point Average (GPA): 3.60/4.00
 	
-	(2) Ranking: 22/379 (top 6%)
+	* Ranking: 22/379 (top 6%)
 	
-	(3) Thesis: Transient Stability Assessment of Power System Based on Data Mining Technology
-	(4) Supervisor: Prof.Jun Yang
+	* Thesis: Transient Stability Assessment of Power System Based on Data Mining Technology
+	* Supervisor: Prof.Jun Yang
 
 * M.S. in Electrical Engineering, Wuhan University, 2017 - 2020
 
