@@ -4,7 +4,6 @@ permalink: /publications/
 author_profile: true
 
 ---
-
 {% include base_path %}
 <font face="微软雅黑" size="5"> Journal Papers </font>
 (1) **Bendong Tan**, Jun Yang, et al. ”A Deep Imbalanced Learning Framework for Transient Stability Assessment of Power System.” in IEEE Access, vol.7, pp.81759-81769, 2019.  
