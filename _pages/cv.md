@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 [More detailed information is also available in PDF format.](http://TBendong.github.io/files/paper4.pdf)
-### Education
+## Education
 * B.S. in Electrical Engineering, Wuhan University, 2013 - 2017  
 (1)  Grade Point Average (GPA): 3.60/4.00    
 (2) Ranking: 22/379 (top 6%)    
@@ -23,14 +23,14 @@ redirect_from:
 * Ph.D in  Electrical Engineering, Mississippi State University, 2020 - Now  
 (1) Supervisor: Prof.Junbo Zhao
 
-### Skills
+## Skills
 * Power System Softwares – Master the basic usage of PST, Digsilent, PSS/E, PSASP, PSD-BPA, and develop batch simulation scripts of transient stability for these softwares
 * Technologies  
 (1) Machine Learning: Tensorflow,Keras,Scikit-learn,Pandas.  
 (2) Optimization: Yalmip with Gurobi and Cplex.
 * Programming Languages – Python, C and Matlab
 
-### Projects
+## Projects
 * **1. Intelligent fault analysis system for the Hubei Power Grid (Contributor, Jul 2016 – Jul 2017)**  
 **Introduction:** this project was funded by the State Grid Hubei Electric Corporation, whose aim was to develop a desicion system to provide service of fault diagnosis and security analysis for the Hubei Power Grid.  
 (1) A fault location algorithm was designed based on complex information in power system  
