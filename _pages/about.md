@@ -15,6 +15,7 @@ redirect_from:
 * IEEE Transaction on Power System
 * IEEE ACCESS  
 <font face="微软雅黑" size="5"> News </font> 
+* 16/07/2020 My Electrical Engineering internship at Hunan Electric Power Research Institute has been started.
 * 01/06/2020 Our paper "Spatial-temporal Adaptive Transient Stability Assessment for Power System under Missing Data" has been accepted to International Journal of Electrical Power and Energy Systems.
 * 18/05/2020 The master defense has been done online! My master in Wuhan University is finished!
 * 16/01/2020 My academic website has been built!
