@@ -15,6 +15,7 @@ redirect_from:
 * IEEE Transaction on Power System
 * IEEE Transaction on Smart Grid
 * IEEE ACCESS
+* IET Generation, Transmission & Distribution
 * International Journal of Electrical Power and Energy Systems  
 <font face="微软雅黑" size="5"> News </font> 
 * 06/08/2020 Our paper "Adaptive Integrating Assessment Method for Transient Stability of Power System Considering Missing Data" has been accepted to Automation of Electric Power Systems (in Chinese).
