@@ -11,7 +11,7 @@ author_profile: true
 (3) Ting Zhou, Jun Yang, Qiangming Zhou, **Bendong Tan**, et al. ”Power System Transient Stability Assessment Based on Modified LightGBM.”, in Power System Technology, , vol.43, no.6, pp.1931-1940, 2019. (in Chinese, EI)[[PDF](http://TBendong.github.io/files/paper1.pdf)]  
 (4) **Bendong Tan**, J. Yang, et al. "Spatial-temporal adaptive transient stability assessment for power system under missing data." in International Journal of Electrical Power & Energy Systems, vol.123, pp.106237, 2020.[[PDF](http://TBendong.github.io/files/paper5.pdf)]  
 (5) **Bendong Tan**, J. Yang, et al. "Adaptive Integrating Assessment Method for Transient Stability of Power System Considering Missing Data." in Automation of Electric Power Systems, 2020.(in Chinese, EI,accepted for publication)  
-(6) **Bendong Tan**, Junbo Zhao, et al. "Power System Inertia Estimation: Review of Methods and the Impacts of Converter-Interfaced Generations." in International Journal of Electrical Power & Energy Systems, 2021.  
+(6) **Bendong Tan**, Junbo Zhao, et al. "Power System Inertia Estimation: Review of Methods and the Impacts of Converter-Interfaced Generations." in International Journal of Electrical Power & Energy Systems, 2021.[[PDF](http://TBendong.github.io/files/paper6.pdf)]  
 
 <font face="微软雅黑" size="5"> Conference Papers </font>
 (1) **Bendong Tan**, J. Yang, et al, "A Novel Temporal Feature Selection for Time-Adaptive Transient Stability Assessment," 2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), Bucharest, Romania, 2019, pp. 1-5.  
