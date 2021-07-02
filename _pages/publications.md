@@ -12,6 +12,7 @@ author_profile: true
 (4) **Bendong Tan**, J. Yang, et al. "Spatial-temporal adaptive transient stability assessment for power system under missing data." in International Journal of Electrical Power & Energy Systems, vol.123, pp.106237, 2020.[[PDF](http://TBendong.github.io/files/paper5.pdf)]  
 (5) **Bendong Tan**, J. Yang, et al. "Adaptive Integrating Assessment Method for Transient Stability of Power System Considering Missing Data." in Automation of Electric Power Systems, 2020.(in Chinese, EI,accepted for publication)  
 (6) **Bendong Tan**, Junbo Zhao, et al. "Power System Inertia Estimation: Review of Methods and the Impacts of Converter-Interfaced Generations." in International Journal of Electrical Power & Energy Systems, 2021.  
+
 <font face="微软雅黑" size="5"> Conference Papers </font>
 (1) **Bendong Tan**, J. Yang, et al, "A Novel Temporal Feature Selection for Time-Adaptive Transient Stability Assessment," 2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), Bucharest, Romania, 2019, pp. 1-5.  
 (2) **Bendong Tan**, J. Yang, et al, "Representational learning approach for power system transient stability assessment based on convolutional neural network," in The Journal of Engineering, vol. 2017, no. 13, pp. 1847-1850, 2017.
