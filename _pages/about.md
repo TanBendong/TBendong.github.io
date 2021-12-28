@@ -18,6 +18,8 @@ redirect_from:
 * IET Generation, Transmission & Distribution
 * International Journal of Electrical Power and Energy Systems  
 <font face="微软雅黑" size="5"> News </font> 
+* 01/12/2021 Our paper "Distributed Frequency Divider for Power System Bus Frequency Online Estimation Considering Virtual Inertia from DFIGs" has been accepted to IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
+* 01/12/2021 Our paper "Decentralized data-driven estimation of generator rotor speed and inertia constant based on adaptive unscented Kalman filter" has been accepted to International Journal of Electrical Power and Energy Systems.
 * 01/07/2021 Our paper "Power System Inertia Estimation: Review of Methods and the Impacts of Converter-Interfaced Generations" has been accepted to International Journal of Electrical Power and Energy Systems.
 * 06/08/2020 Our paper "Adaptive Integrating Assessment Method for Transient Stability of Power System Considering Missing Data" has been accepted to Automation of Electric Power Systems (in Chinese).
 * 16/07/2020 My Electrical Engineering internship at Hunan Electric Power Research Institute has been started.
