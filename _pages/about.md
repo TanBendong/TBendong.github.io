@@ -7,9 +7,7 @@ title: <br><br><br><br><br><br>Bendong Tan
 permalink: /
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 {% include base_path %}
