@@ -5,7 +5,7 @@ comments: true
 share: false
 permalink: /
 excerpt: "About me"
-author_profile: true
+author_profile: false
 
 ---
 
