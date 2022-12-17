@@ -6,9 +6,7 @@ share: false
 permalink: /
 excerpt: "About me"
 author_profile: false
-
 ---
-
 {% include base_path %}
 <font face="微软雅黑" size="5"> About </font> 
 &emsp; Hi! I’m Bendong Tan. I earned my bachelor degree of Electrical Engineering from Wuhan University (WHU) in 2017, which is one of the most beautiful university in Wuhan, China. I will get my master degree of Electrical Engineering from WHU in 2020, focusing on power system transient stability. And I will pursue my PhD degree in Mississippi State University in 2020, where I would perform research on power system stability and control.   
