@@ -22,7 +22,7 @@ redirect_from:
 ## News
 ### 2022
 * 12/12/2022 Our paper "Data-driven Time-varying Inertia Estimation of Inverter-based Resources" has been accepted to n IEEE Transactions on Power Systems.
-* 06/10/2022 Our paper "Decentralized data-driven estimation of generator rotor speed and inertia constant based on adaptive unscented Kalman filter" has been accepted to International Journal of Electrical Power and Energy Systems.
+* 17/10/2022 Our paper "Decentralized data-driven estimation of generator rotor speed and inertia constant based on adaptive unscented Kalman filter" has been accepted to International Journal of Electrical Power and Energy Systems.
 ### 2021
 * 01/12/2021 Our paper "Distributed Frequency Divider for Power System Bus Frequency Online Estimation Considering Virtual Inertia from DFIGs" has been accepted to IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
 * 01/12/2021 Our paper "Decentralized data-driven estimation of generator rotor speed and inertia constant based on adaptive unscented Kalman filter" has been accepted to International Journal of Electrical Power and Energy Systems.
