@@ -1,4 +1,9 @@
 ---
+layout: single
+read_time: true
+comments: true
+share: false
+title: <br><br><br><br><br><br>Bendong Tan
 permalink: /
 excerpt: "About me"
 author_profile: true
