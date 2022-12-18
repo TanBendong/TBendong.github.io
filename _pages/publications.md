@@ -11,7 +11,7 @@ author_profile: true
 * **Bendong Tan**, Junbo Zhao, et al. "Distributed frequency divider for power system bus frequency online
 estimation considering virtual inertia from DFIGs,", **IEEE Journal on Emerging and Selected Topics in Circuits and Systems**, vol. 12, no. 1, pp. 161-171, March 2022.[[Link](https://ieeexplore.ieee.org/document/9676646)]
 * **Bendong Tan**, Junbo Zhao, et al. "Decentralized data-driven estimation of generator rotor speed and inertia
-constant based on adaptive unscented Kalman filter,", **International Journal of Electrical Power & Energy Systems**, Vol.134, Jan 2022.[[Link](https://www.sciencedirect.com/science/article/pii/S0142061521010693)]
+constant based on adaptive unscented Kalman filter,", **International Journal of Electrical Power & Energy Systems**, Vol.134, May 2022.[[Link](https://www.sciencedirect.com/science/article/pii/S0142061521010693)]
 * **Bendong Tan**, Junbo Zhao, et al. "Power system inertia estimation: review of methods and the impacts of
 converter-interfaced generations,", **International Journal of Electrical Power & Energy Systems**, Jan 2022.[[PDF](https://www.sciencedirect.com/science/article/pii/S0142061521006013)] <font color=red>(Best Journal Paper Award)</font>
 * **Bendong Tan**, J. Yang, et al. "Adaptive Integrating Assessment Method for Transient Stability of Power System Considering Missing Data,", **Automation of Electric Power Systems**, 2020.(in Chinese, EI)
