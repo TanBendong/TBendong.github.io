@@ -22,7 +22,7 @@ converter-interfaced generations,", **International Journal of Electrical Power 
   
 # Conference Paper
 * **Bendong Tan**, Junbo Zhao, et al., “Explainable Bayesian neural network for probabilistic transient stability analysis considering wind energy,”, in **2022 IEEE Power & Energy Society General Meeting (PESGM)**, pp. 1-5, 2022. <font color=red>(Best Paper Award)</font>
-* **Bendong Tan**, Junbo Zhao, et al., “Interpretable data-driven probabilistic power system load margin assessment with uncertain renewable energy and loads,”, in **11th International Conference on Innovative Smart Grid Technologies (Asia)**, 2022. <font color=red>(**Best Paper Award**)</font>
+* **Bendong Tan**, Junbo Zhao, et al., “Interpretable data-driven probabilistic power system load margin assessment with uncertain renewable energy and loads,”, in **11th International Conference on Innovative Smart Grid Technologies (Asia)**, 2022. <font color=red>(Best Paper Award)</font>
 * **Bendong Tan**, Junbo Zhao, et al., “Extended frequency divider for bus frequency estimation considering virtual inertia from DFIGs,”, in **2021 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America)**, pp. 1-5, 2021.
 * **Bendong Tan**, J. Yang, et al, "A novel temporal feature selection for time-Adaptive transient stability assessment," in **2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), Bucharest**, Romania, 2019, pp. 1-5.  
 * **Bendong Tan**, J. Yang, et al, "Representational learning approach for power system transient stability assessment based on convolutional neural network," in **The Journal of Engineering**, vol. 2017, no. 13, pp. 1847-1850, 2017.
