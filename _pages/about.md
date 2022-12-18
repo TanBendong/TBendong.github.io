@@ -23,9 +23,9 @@ author_profile: true
 ## 2022
 * 12/12/2022 Our paper "Data-driven time-varying inertia estimation of inverter-based resources" has been accepted to IEEE Transactions on Power Systems.
 * 17/10/2022 Our paper "A general decentralized dynamic state estimation with synchronous generator magnetic saturation" has been accepted to IEEE Transactions on Power Systems.
-* 11/10/2022 Received **Best Paper Award** from 11th International Conference on Innovative Smart Grid Technologies, Asia!
-* 08/07/2022 Paper "Power system inertia estimation: review of methods and the impacts of converter-interfaced generations" received **2022 Best Journal Paper Award** (3 out of 1500+ paper) of International Journal of Electrical Power & Energy Systems!
-* 16/05/2022 Received **Best Paper Award** from 2022 IEEE Power & Energy Society General Meeting (GM), Denver, USA!
+* 11/10/2022 Received <font color=red>Best Paper Award</font> from 11th International Conference on Innovative Smart Grid Technologies, Asia!
+* 08/07/2022 Paper "Power system inertia estimation: review of methods and the impacts of converter-interfaced generations" received <font color=red>2022 Best Journal Paper Award</font>  (3 out of 1500+ paper) of International Journal of Electrical Power & Energy Systems!
+* 16/05/2022 Received <font color=red>Best Paper Award</font> from 2022 IEEE Power & Energy Society General Meeting (GM), Denver, USA!
 
 ## 2021
 * 01/12/2021 Our paper "Distributed frequency divider for power system bus frequency online estimation considering virtual inertia from DFIGs" has been accepted to IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
