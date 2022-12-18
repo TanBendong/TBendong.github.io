@@ -21,19 +21,19 @@ author_profile: true
 # News
 
 ## 2022
-* 12/12/2022 Our paper "Data-driven Time-varying Inertia Estimation of Inverter-based Resources" has been accepted to IEEE Transactions on Power Systems.
-* 17/10/2022 Our paper "A General Decentralized Dynamic State Estimation with Synchronous Generator Magnetic Saturation" has been accepted to IEEE Transactions on Power Systems.
+* 12/12/2022 Our paper "Data-driven time-varying inertia estimation of inverter-based resources" has been accepted to IEEE Transactions on Power Systems.
+* 17/10/2022 Our paper "A general decentralized dynamic state estimation with synchronous generator magnetic saturation" has been accepted to IEEE Transactions on Power Systems.
 * 11/10/2022 Received **Best Paper Award** from 11th International Conference on Innovative Smart Grid Technologies, Asia!
-* 08/07/2022 Paper "Power System Inertia Estimation: Review of Methods and the Impacts of Converter-Interfaced Generations" received **2022 Best Journal Paper Award** (3 out of 1500+ paper) of International Journal of Electrical Power & Energy Systems!
+* 08/07/2022 Paper "Power system inertia estimation: review of methods and the impacts of converter-interfaced generations" received **2022 Best Journal Paper Award** (3 out of 1500+ paper) of International Journal of Electrical Power & Energy Systems!
 * 16/05/2022 Received **Best Paper Award** from 2022 IEEE Power & Energy Society General Meeting (GM), Denver, USA!
 
 ## 2021
-* 01/12/2021 Our paper "Distributed Frequency Divider for Power System Bus Frequency Online Estimation Considering Virtual Inertia from DFIGs" has been accepted to IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
+* 01/12/2021 Our paper "Distributed frequency divider for power system bus frequency online estimation considering virtual inertia from DFIGs" has been accepted to IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
 * 01/12/2021 Our paper "Decentralized data-driven estimation of generator rotor speed and inertia constant based on adaptive unscented Kalman filter" has been accepted to International Journal of Electrical Power and Energy Systems.
-* 01/07/2021 Our paper "Power System Inertia Estimation: Review of Methods and the Impacts of Converter-Interfaced Generations" has been accepted to International Journal of Electrical Power and Energy Systems.
+* 01/07/2021 Our paper "Power system inertia estimation: review of methods and the impacts of converter-interfaced generations" has been accepted to International Journal of Electrical Power and Energy Systems.
 
 ## 2020
-* 06/08/2020 Our paper "Adaptive Integrating Assessment Method for Transient Stability of Power System Considering Missing Data" has been accepted to Automation of Electric Power Systems (in Chinese).
+* 06/08/2020 Our paper "Adaptive integrating assessment method for transient stability of power system considering missing data" has been accepted to Automation of Electric Power Systems (in Chinese).
 * 16/07/2020 My Electrical Engineering internship at Hunan Electric Power Research Institute has been started.
 * 01/06/2020 Our paper "Spatial-temporal Adaptive Transient Stability Assessment for Power System under Missing Data" has been accepted to International Journal of Electrical Power and Energy Systems.
 * 18/05/2020 The master defense has been done online! My master in Wuhan University is finished!
