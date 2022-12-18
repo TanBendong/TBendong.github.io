@@ -6,8 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 # Journal Papers
-* Bendong Tan, Junbo Zhao, et al., “Data-driven time-varying inertia estimation of inverter-based resources,”, **IEEE Transactions on Power Systems**, 2022.[[Link](https://ieeexplore.ieee.org/document/9990924)]
-* Bendong Tan, Junbo Zhao, et al., “A general decentralized dynamic state estimation with synchronous generator magnetic saturation,”, **IEEE Transactions on Power Systems**, 2022.[[Link](https://ieeexplore.ieee.org/document/9676646)]
+* **Bendong Tan**, Junbo Zhao, et al., “Data-driven time-varying inertia estimation of inverter-based resources,”, **IEEE Transactions on Power Systems**, 2022.[[Link](https://ieeexplore.ieee.org/document/9990924)]
+* **Bendong Tan**, Junbo Zhao, et al., “A general decentralized dynamic state estimation with synchronous generator magnetic saturation,”, **IEEE Transactions on Power Systems**, 2022.[[Link](https://ieeexplore.ieee.org/document/9676646)]
 * **Bendong Tan**, Junbo Zhao, et al. "istributed frequency divider for power system bus frequency online
 estimation considering virtual inertia from DFIGs." **EEE Journal on Emerging and Selected Topics in Circuits and Systems**, vol. 12, no. 1, pp. 161-171, March 2022.[[Link](https://ieeexplore.ieee.org/document/9926125)]
 * **Bendong Tan**, Junbo Zhao, et al. "Decentralized data-driven estimation of generator rotor speed and inertia
