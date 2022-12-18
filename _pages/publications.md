@@ -13,7 +13,7 @@ estimation considering virtual inertia from DFIGs." **EEE Journal on Emerging an
 * **Bendong Tan**, Junbo Zhao, et al. "Decentralized data-driven estimation of generator rotor speed and inertia
 constant based on adaptive unscented Kalman filter." International Journal of Electrical Power & Energy Systems, Vol.134, Jan 2022.[Link](https://www.sciencedirect.com/science/article/pii/S0142061521006013)]
 * **Bendong Tan**, Junbo Zhao, et al. "Power system inertia estimation: review of methods and the impacts of
-converter-interfaced generations." **International Journal of Electrical Power & Energy Systems**, Jan 2022.[[PDF](https://www.sciencedirect.com/science/article/pii/S0142061521006013)] <font color=red>(Best Journal Paper Award)</font>
+converter-interfaced generations." **International Journal of Electrical Power & Energy Systems**, Jan 2022.[PDF](https://www.sciencedirect.com/science/article/pii/S0142061521006013)] <font color=red>(Best Journal Paper Award)</font>
 * **Bendong Tan**, J. Yang, et al. "Adaptive Integrating Assessment Method for Transient Stability of Power System Considering Missing Data." **Automation of Electric Power Systems**, 2020.(in Chinese, EI)
 * **Bendong Tan**, J. Yang, et al. "Spatial-temporal adaptive transient stability assessment for power system under missing data." International Journal of Electrical Power & Energy Systems, vol.123, pp.106237, 2020.[[PDF](http://TBendong.github.io/files/paper5.pdf)]
 * Ting Zhou, Jun Yang, Qiangming Zhou, **Bendong Tan**, et al. "Power System Transient Stability Assessment Based on Modified LightGBM.", **Power System Technology**, vol.43, no.6, pp.1931-1940, 2019. (in Chinese, EI)[[PDF](http://TBendong.github.io/files/paper1.pdf)]
