@@ -26,6 +26,7 @@ author_profile: true
 * 11/10/2022 Received <font color=red>Best Paper Award</font> from 11th International Conference on Innovative Smart Grid Technologies, Asia!
 * 08/07/2022 Paper "Power system inertia estimation: review of methods and the impacts of converter-interfaced generations" received <font color=red>2022 Best Journal Paper Award</font>  (3 out of 1500+ paper) of International Journal of Electrical Power & Energy Systems!
 * 16/05/2022 Received <font color=red>Best Paper Award</font> from 2022 IEEE Power & Energy Society General Meeting (GM), Denver, USA!
+* 01/02/2022 Received <font color=red>2021 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
 
 ## 2021
 * 01/12/2021 Our paper "Distributed frequency divider for power system bus frequency online estimation considering virtual inertia from DFIGs" has been accepted to IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
