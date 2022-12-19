@@ -21,6 +21,7 @@ author_profile: true
 # News
 
 ## 2022
+* 18/12/2022 Our paper "Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads" has been accepted to IEEE Transactions on Power Systems.
 * 12/12/2022 Our paper "Data-driven time-varying inertia estimation of inverter-based resources" has been accepted to IEEE Transactions on Power Systems.
 * 17/10/2022 Our paper "A general decentralized dynamic state estimation with synchronous generator magnetic saturation" has been accepted to IEEE Transactions on Power Systems.
 * 11/10/2022 Received <font color=red>Best Paper Award</font> from 11th International Conference on Innovative Smart Grid Technologies, Asia!
