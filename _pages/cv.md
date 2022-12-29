@@ -10,17 +10,19 @@ redirect_from:
 
 [More detailed information is also available in PDF format.](http://TBendong.github.io/files/CV-Bendong Tan.pdf)  
 ## Education  
-* B.S. in Electrical Engineering, Wuhan University, 2013 - 2017  
+* B.S. in Electrical Engineering, Wuhan University, 2013/09 - 2017/06  
 (1)  Grade Point Average (GPA): 3.60/4.00    
 (2) Ranking: 22/379 (top 6%)    
 (3) Thesis: Transient Stability Assessment of Power System Based on Data Mining Technology  
 (4) Supervisor: Prof.Jun Yang
-* M.S. in Electrical Engineering, Wuhan University, 2017 - 2020  
+* M.S. in Electrical Engineering, Wuhan University, 2017/09 - 2020/06  
 (1) Weighted of Average Score: 89.32/100  
 (2) Ranking: 9/189 (top 5%)  
 (3) Area of Study: Applications of Artificial Intelligence in Power System Stability and Control  
 (4) Supervisor: Prof.Yuanzhang Sun & Prof.Jun Yang
-* Ph.D in  Electrical Engineering, University of Connecticut, 2022 - Now  
+* Ph.D in  Electrical Engineering, Mississipppi State University, 2021/08 - 2021/12  
+(1) Supervisor: Prof.Junbo Zhao  
+* Ph.D in  Electrical Engineering, University of Connecticut, 2022/01 - Now  
 (1) Supervisor: Prof.Junbo Zhao  
 
 ## Projects 
