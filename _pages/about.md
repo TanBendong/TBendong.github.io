@@ -23,7 +23,7 @@ author_profile: true
 # News
 
 ## 2023
-* 29/01/2023 Our paper "Time-varying Inertia Estimation for Inverter-based Resources" has been accepted to 2023 IEEE PES General Meeting.
+* 29/01/2023 Our paper "Time-varying inertia estimation for inverter-based resources" has been accepted to 2023 IEEE PES General Meeting.
 
 ## 2022
 * 18/12/2022 Our paper "Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads" has been accepted to IEEE Transactions on Power Systems.
