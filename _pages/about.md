@@ -12,8 +12,8 @@ author_profile: true
 &emsp; I have suffered from "what do I want?" for a long time. To be realistic, the MS can get me a good job in State Grid of China but more likely an uncompetitive one, since there are not much new technologies to learn to update myself and it may be boring in such corporation. Therefore, I choose to pursue a PhD degree in America not only to find more interesting things in power system, but also to improve self-cognition and to be familiar with the world. During my PhD career, I enjoy building things so I create this academic website to share what I've found and done. I’m looking forward to having a pleasant cooperation with my research partners in the future!   
 
 # Journal Reviewer
-* IEEE Transaction on Power System
-* IEEE Transaction on Smart Grid
+* IEEE Transactions on Power Systems
+* IEEE Transactions on Smart Grid
 * IEEE Power Engineering Letters
 * IEEE Open Access Journal of Power and Energy
 * International Journal of Electrical Power and Energy Systems
